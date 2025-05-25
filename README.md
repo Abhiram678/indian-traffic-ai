@@ -631,16 +631,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dataset License**: Please refer to the FGVD dataset license terms on the [IDD portal](https://idd.insaan.iiit.ac.in/).
 
-## 🙏 Acknowledgments
-
-- **IDD Research Team** for providing the comprehensive FGVD dataset
-- **Ultralytics** for the incredible YOLO framework
-- **Streamlit** for the amazing web app capabilities
-- **OpenCV** and **PyTorch** communities for robust tools
-- **FGVD dataset** contributors and researchers who labeled 24,450+ vehicle instances
-- All contributors who helped improve this project
-
-
 
 **Made with ❤️ for Indian Traffic Analysis using the FGVD Dataset**
 
