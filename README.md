@@ -9,6 +9,9 @@ A professional-grade AI system for real-time vehicle detection and classificatio
 ![Model Accuracy](https://img.shields.io/badge/mAP50-68%25-brightgreen)
 ![Dataset](https://img.shields.io/badge/Dataset-FGVD-orange)
 
+![image](https://github.com/user-attachments/assets/d693cc5c-9fce-4d49-8b29-e823a9e361c1)
+![image](https://github.com/user-attachments/assets/0907bc84-4c36-4859-a8fd-25ac1cd0b96c)
+
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Dataset Information](#-dataset-information)
